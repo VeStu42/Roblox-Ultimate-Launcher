@@ -1,5 +1,5 @@
 # Ultra-Roblox-Launcher
-This is not a official Roblox Launcher
+This is not a official Roblox Launcher, this is not affiliated with roblox!
 It may show "this file may harm your device",
 If you feel like this is not safe DO NOT download it!
 Most edited versions may be a virus
