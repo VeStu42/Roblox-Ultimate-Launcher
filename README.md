@@ -16,3 +16,5 @@ Workshop: I can get you themes!
 Keep up to date: Delete the old version and download the exe!
 
 Watch Out: Most edited versions may be a virus!!
+
+Theme Websites: Make sure you trust the website before downloading a theme from it!
